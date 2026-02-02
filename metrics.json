@@ -1,0 +1,8 @@
+{
+  "model": "XGBoost",
+  "train_rmse": 0.4766,
+  "rmse": 0.4943,
+  "mae": 0.3451,
+  "r2": 0.6588,
+  "target_transformation": "log_or_scaled"
+}
